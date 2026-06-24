@@ -1,6 +1,8 @@
 # JI Studio
 
 A just-intonation song-form synth that runs entirely in one HTML file. Type a short "song shape" out of letters, define what each letter does, shape the sound, hand-edit notes on a piano roll, and export to WAV or MP3. No install, no server, no accounts — open `synth.html` in a browser and everything happens locally.
+ 
+Of course, you can choose a tuning. Also, the music generator is fully algorithmic, not AI.
 
 ## Quick start
 
